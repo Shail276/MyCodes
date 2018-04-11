@@ -1,0 +1,4 @@
+x = 'fsfwf'
+print x
+
+
